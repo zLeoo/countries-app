@@ -9,7 +9,7 @@
 
 ## 💻 Sobre o projeto
 
-[Countries App](https://reverent-panini-6ce833.netlify.app) é uma plataforma que permite visualizar dados sobre os países de todo o mundo como população, capital, região, moeda e etc.
+[Countries App](https://reverent-panini-6ce833.netlify.app) é uma aplicação que permite visualizar dados sobre os países de todo o mundo como população, capital, região, moeda e etc.
 
 
 O projeto foi desenvolvido por meio de um desafio da plataforma [Frontend Mentor](https://www.frontendmentor.io/challenges), com o objetivo de praticar minhas habilidades no desenvolvimento front end através de problemas reais e com designs profissionais.
