@@ -3,22 +3,22 @@
     <img alt="Desafio" title="Desafio" src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1554827486%2FChallenges%2Fwirxeocmd6tpnn9c5oqc.jpg&w=828&q=75" />
 </h1>
 
-<h4 align="center"> 
-	  Countries App 🚀🚀🚀 
-</h4>
+<h2 align="center"> 
+	  [Countries App](https://reverent-panini-6ce833.netlify.app) 🗺️
+</h2>
 
 ## 💻 Sobre o projeto
 
-Countries App é uma plataforma que permite visualizar dados sobre os países de todo o mundo como população, capital, região, moeda e etc.
+[Countries App](https://reverent-panini-6ce833.netlify.app) é uma plataforma que permite visualizar dados sobre os países de todo o mundo como população, capital, região, moeda e etc.
 
 
-O projeto foi desenvolvido por meio de um desafio da plataforma Frontend Mentor [Frontend Mentor](https://www.frontendmentor.io/challenges), com o objetivo de praticar minhas habilidades no desenvolvimento front end através de problemas reais e com designs profissionais.
+O projeto foi desenvolvido por meio de um desafio da plataforma [Frontend Mentor](https://www.frontendmentor.io/challenges), com o objetivo de praticar minhas habilidades no desenvolvimento front end através de problemas reais e com designs profissionais.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Mostrar todos os países recebidos da API REST Countries [REST Countries](https://restcountries.eu).
+- [x] Mostrar todos os países recebidos da API [REST Countries](https://restcountries.eu).
 - [x] Buscar países usando o campo input.
 - [x] Filtrar países por região.
 - [x] Visualizar mais dados clicando em cada país.
