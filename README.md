@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center"> 
-	  [Countries App](https://reverent-panini-6ce833.netlify.app) 🗺️
+	  Countries App 🗺️
 </h2>
 
 ## 💻 Sobre o projeto
