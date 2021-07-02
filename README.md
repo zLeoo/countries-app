@@ -1,46 +1,81 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Desafio" title="Desafio" src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1554827486%2FChallenges%2Fwirxeocmd6tpnn9c5oqc.jpg&w=828&q=75" />
+</h1>
 
-## Available Scripts
+<h4 align="center"> 
+	  Countries App 🚀🚀🚀 
+</h4>
 
-In the project directory, you can run:
+## 💻 Sobre o projeto
 
-### `yarn start`
+Countries App é uma plataforma que permite visualizar dados sobre os países de todo o mundo como população, capital, região, moeda e etc.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O projeto foi desenvolvido por meio de um desafio da plataforma Frontend Mentor [Frontend Mentor](https://www.frontendmentor.io/challenges), com o objetivo de praticar minhas habilidades no desenvolvimento front end através de problemas reais e com designs profissionais.
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⚙️ Funcionalidades
 
-### `yarn build`
+- [x] Mostrar todos os países recebidos da API REST Countries [REST Countries](https://restcountries.eu).
+- [x] Buscar países usando o campo input.
+- [x] Filtrar países por região.
+- [x] Visualizar mais dados clicando em cada país.
+- [x] Navegar pelas fronteiras de cada país na página de detalhes.
+- [x] Alterar o tema entre Claro e Escuro. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🎨 Demonstração
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O layout da aplicação está disponível no Figma:
 
-### `yarn eject`
+<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Mobile
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
+</p>
 
-## Learn More
+### Web
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+</p>
+
+---
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+-   **[React](https://reactjs.org/)**
+-   **[Typescript](https://www.typescriptlang.org/docs/)**
+-   **[Styled Components](https://styled-components.com/)**
+-   **[React Router](https://reactrouter.com/)**
+-   **[Git](https://git-scm.com/)**  
+-   **[Axios](https://github.com/axios/axios)**
+-   **[React Icons](https://react-icons.github.io/react-icons/)**
+-   **[Polished](https://polished.js.org/)**
+-   **[Netlify](https://www.netlify.com/)**
+
+---
+
+## 🦸 Autor
+
+<a href="https://www.linkedin.com/in/leowebdev/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/34231899?s=400&u=ca4f73f5b79d52cd6ff00640d7ce71cfe3730911&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Leonardo dos Santos Zamboni</b></sub></a> <a href="https://www.linkedin.com/in/leowebdev/" title="Leonardo dos Santos Zamboni">🚀</a>
+ <br />
+
+---
