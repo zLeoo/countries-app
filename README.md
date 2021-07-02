@@ -43,7 +43,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor
+## 🤵 Autor
 
 <a href="https://www.linkedin.com/in/leowebdev/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/34231899?s=400&u=ca4f73f5b79d52cd6ff00640d7ce71cfe3730911&v=4" width="100px;" alt=""/>
